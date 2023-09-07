@@ -4,9 +4,6 @@
 # In[ ]:
 
 
-nltk.download()
-
-
 # In[20]:
 
 
