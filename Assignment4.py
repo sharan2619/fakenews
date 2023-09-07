@@ -3,7 +3,6 @@
 
 # In[ ]:
 
-import nltk
 nltk.download()
 
 # In[20]:
