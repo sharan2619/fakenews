@@ -4,7 +4,7 @@
 # In[ ]:
 
 
-get_ipython().system('pip install nltk')
+
 import nltk
 nltk.download()
 
