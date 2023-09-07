@@ -4,8 +4,6 @@
 # In[ ]:
 
 
-
-import nltk
 nltk.download()
 
 
